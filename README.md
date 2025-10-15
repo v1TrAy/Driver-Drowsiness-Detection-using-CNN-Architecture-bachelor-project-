@@ -50,10 +50,6 @@ Similarly, open `Drowsiness-Detection_MobilNet.ipynb` to train and evaluate the 
 
 You can test the trained models by loading new images, preprocessing them the same way as training data, and running predictions.
 
-## Results
-
-- The custom model achieved [mention accuracy]% accuracy on the test set.
-- The MobileNet model achieved [mention accuracy]% accuracy, showing better performance due to transfer learning.
 
 ## References
 
